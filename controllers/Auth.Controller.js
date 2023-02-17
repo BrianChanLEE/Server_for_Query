@@ -65,7 +65,6 @@ module.exports = {
   logout,
 };
 
-// const bcrypt = require("bcrypt");
 // const jwt = require("jsonwebtoken");
 // const { createUser, findUserByEmail } = require("../models/User.Model");
 // const config = require("../config/db.config");
